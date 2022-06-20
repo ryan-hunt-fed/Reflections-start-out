@@ -1,0 +1,50 @@
+Command line reflection
+
+Did you stick to the timebox guidelines? If not, what change would you make next time?
+
+I believe I went slightly over, I think this is mainly getting the right setup to work but I am adjusting how my screen is displayed so the time is also there. If I still seem to have the same issues later on I will be setting timers on top of the toggl track software. 
+
+Name five commands you used and what they do.
+
+Cd - Change directory
+Mkdir - create directory
+Rm -r - delete directory
+Touch - create file
+Pwd - check what current directory I’m in
+Ls- list items in current directory
+
+Did you learn anything unexpected?
+
+Nothing I would say was unexpected, I have had some terminal experience in the past working in IT, so it’s just a matter of learning the commands that I am not used to yet. 
+
+Version control with Git reflections
+
+What's the difference between Git and GitHub?
+
+GitHub is the website where you can upload your code in order to collaborate with other users and store your current verisons of code, while having the option to look at older versions of stored code. Git is the software rather than the website, the software's main thing is version control so allowing multiple people to work on a file and not have each other overwritting each others work. 
+
+Can you think of an analogy to describe them?
+
+Github would be website or a webhub for code. Git would be the software. 
+
+Do you think you would still remember the difference a week from now if you didn't revisit the material?
+
+Yes I would as Github to me will be reminded for me as the service rather than the software that Git is.
+
+Did you stick to the timebox suggestions? If not, why not?
+
+Yes I did after rearranging my workspace after the last reflection.
+
+What is a Git workflow?
+
+Creating a git repository (git init) or copy down an existing repository with git clone, initally check the status of the repository (Git status), Place or create files to work on in the repository (i.e, index.html or Css files), Once happy add these files to the staging area with git add or git ., check again with Git status to chek the files have been moved to the staging area correctly, then use git commit to finish off the files which will open up a text editor to add notes for the changes or inital files.
+If it is an existing repository much is the same asides from geting more information about past changes if need be, which will be the use of either git log or git show. 
+
+What did you notice about your learning? What did you do when you were confused or blocked?
+
+I noticed that overall I understood the material well and I think I went at a resonable pace to take everything in. If I didn't get it at first I would go back and either read the paragraph or rewatch the video, otherwise look at what code I was typing and what was wrong with it, plus the sugestions that are made in the terminal as to what might be wrong alos helped.
+
+
+Is there anything you'd do differently if you were to repeat the learning exploration?
+
+If I were to repeat the exploration I would maybe try to get more windows open to get a wider scope of information and hone more of the different opinions of the techniques i'm learning. 
