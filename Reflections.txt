@@ -2,7 +2,9 @@ Command line reflection
 
 Did you stick to the timebox guidelines? If not, what change would you make next time?
 
-I believe I went slightly over, I think this is mainly getting the right setup to work but I am adjusting how my screen is displayed so the time is also there. If I still seem to have the same issues later on I will be setting timers on top of the toggl track software. 
+I believe I went slightly over, I think this is mainly getting the right setup to work but I am adjusting 
+how my screen is displayed so the time is also there. If I still seem to have the same issues later 
+on I will be setting timers on top of the toggl track software. 
 
 Name five commands you used and what they do.
 
@@ -15,7 +17,8 @@ Ls- list items in current directory
 
 Did you learn anything unexpected?
 
-Nothing I would say was unexpected, I have had some terminal experience in the past working in IT, so it’s just a matter of learning the commands that I am not used to yet. 
+Nothing I would say was unexpected, I have had some terminal experience in the past working in IT, 
+so it’s just a matter of learning the commands that I am not used to yet. 
 
 Version control with Git reflections
 
@@ -37,14 +40,34 @@ Yes I did after rearranging my workspace after the last reflection.
 
 What is a Git workflow?
 
-Creating a git repository (git init) or copy down an existing repository with git clone, initally check the status of the repository (Git status), Place or create files to work on in the repository (i.e, index.html or Css files), Once happy add these files to the staging area with git add or git ., check again with Git status to chek the files have been moved to the staging area correctly, then use git commit to finish off the files which will open up a text editor to add notes for the changes or inital files.
-If it is an existing repository much is the same asides from geting more information about past changes if need be, which will be the use of either git log or git show. 
+Creating a git repository (git init) or copy down an existing repository with git clone, initally check the 
+status of the repository (Git status), Place or create files to work on in the repository (i.e, index.html 
+or Css files), Once happy add these files to the staging area with git add or git ., 
+check again with Git status to chek the files have been moved to the staging area correctly, then use git 
+commit to finish off the files which will open up a text editor to add notes for the changes or inital files.
+If it is an existing repository much is the same asides from geting more information about past changes if 
+need be, which will be the use of either git log or git show. 
 
 What did you notice about your learning? What did you do when you were confused or blocked?
 
-I noticed that overall I understood the material well and I think I went at a resonable pace to take everything in. If I didn't get it at first I would go back and either read the paragraph or rewatch the video, otherwise look at what code I was typing and what was wrong with it, plus the sugestions that are made in the terminal as to what might be wrong alos helped.
+I noticed that overall I understood the material well and I think I went at a resonable pace to take 
+everything in. If I didn't get it at first I would go back and either read the paragraph or rewatch the 
+video, otherwise look at what code I was typing and what was wrong with it, plus the sugestions that are 
+made in the terminal as to what might be wrong alos helped.
 
 
 Is there anything you'd do differently if you were to repeat the learning exploration?
 
-If I were to repeat the exploration I would maybe try to get more windows open to get a wider scope of information and hone more of the different opinions of the techniques i'm learning. 
+If I were to repeat the exploration I would maybe try to get more windows open to get a wider 
+scope of information and hone more of the different opinions of the techniques i'm learning. 
+
+How would you describe stage and commit to your non-tech-savvy friend?
+
+I would explain it as a process and an example that has come to mind that is similar to recieving post. 
+Staging is the place where you send/prepare your files in order to be acceptable to be commited, in the example 
+I'm using it is much like someone sending a letter and it ending up in the postal service branch, they recieve 
+it and then have to prepare where it is meant to go. For commit it is very much like saving the work you have done on the files you 
+prepared, along with adding additonal comments of what the changes were. In my example the commit stage would be one of the postal
+workers checking the address that the letter has, making sure that there are no errors, recording it down and then once approved 
+it can continue onto it's desired location. Much like with commiting it can afterwards be sent to someone else or pushed onto a 
+site such as GitHub. 
