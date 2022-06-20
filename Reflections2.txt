@@ -66,8 +66,16 @@ How would you describe stage and commit to your non-tech-savvy friend?
 I would explain it as a process and an example that has come to mind that is similar to recieving post. 
 Staging is the place where you send/prepare your files in order to be acceptable to be commited, in the example 
 I'm using it is much like someone sending a letter and it ending up in the postal service branch, they recieve 
-it and then have to prepare where it is meant to go. For commit it is very much like saving the work you have done on the files you 
-prepared, along with adding additonal comments of what the changes were. In my example the commit stage would be one of the postal
-workers checking the address that the letter has, making sure that there are no errors, recording it down and then once approved 
-it can continue onto it's desired location. Much like with commiting it can afterwards be sent to someone else or pushed onto a 
-site such as GitHub. 
+it and then have to prepare where it is meant to go. For commit it is very much like saving the work you have done on the files you prepared, along with adding additonal comments of what the changes were. In my example the commit stage would be one of the postalworkers checking the address that the letter has, making sure that there are no errors, recording it down and then once approved it can continue onto it's desired location. Much like with commiting it can afterwards be sent to someone else or pushed onto a site such as GitHub. 
+
+What is main?
+
+Main is your root timeline, this is where your live or main files are located for a project. This is the place where you would use all your final code for the project you're working on.
+
+Why create a branch?
+
+There are multiple reasons for creating a branch but the main one is to work on code without making any changes to the main source unless you know you're ready. This way it gives you a chance to test out different options for what you're creating. If it works, merge it with the current main branch, if not simply delete it and it won't have any effect on the main code. It is also a good way for multiple people to work on the code and with such things in place like pull requests on Github it allows people to work on multiple sections and make updates without it affecting the main code located in main.
+
+Do the concepts introduced feel intuitive or difficult to understand?
+
+I believe I'm understanding it correctly and the concept is fine for me to get around, it is a lot of information but overall I believe I'm retaining most of it and will contuine to try and drill it in. Did have some slight code issues when I think I prematurely deleted a local branch and was pushing and pulling from github with some errors coming up but I believe I sorted myself out, at least I;'m not getting the same errors anymore. 
